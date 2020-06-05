@@ -1,3 +1,3 @@
 class Thingy:
   def thingy():
-    print("things things things")
+    print("repli.it as a IDE works ok")
